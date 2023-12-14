@@ -52,3 +52,7 @@
   border-radius: 4px;
   padding: 0 5px;
 }
+.card__hidden {
+  display: block;
+  font-style: italic;
+}
